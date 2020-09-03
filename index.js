@@ -1,3 +1,4 @@
-const = companyName;
-companyName = 'Scruber'
+const companyName = 'Scruber';
+
+
 
